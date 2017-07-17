@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2.quizgame/2.quizgame.iml" filepath="$PROJECT_DIR$/../2.quizgame/2.quizgame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2017-04-12.Games.iml" filepath="$PROJECT_DIR$/../2017-04-12.Games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3.krestikinoliki/3.krestikinoliki.iml" filepath="$PROJECT_DIR$/../3.krestikinoliki/3.krestikinoliki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../4.sudoku/4.sudoku.iml" filepath="$PROJECT_DIR$/../4.sudoku/4.sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../5.memoria/5.memoria.iml" filepath="$PROJECT_DIR$/../5.memoria/5.memoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../7.arithmeticgame/7.arithmeticgame.iml" filepath="$PROJECT_DIR$/../7.arithmeticgame/7.arithmeticgame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.hangman.iml" filepath="$PROJECT_DIR$/8.hangman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+    </modules>
+  </component>
+</project>
